@@ -4,7 +4,9 @@ Robot avoider adalah robot beroda atau berkaki yang di program untuk dapat mengh
 Robot avoider adalah cikal bakal dari robot pemadam api di mana konsep dari robot avoider ini dapat berubah menjadi robot pemadam api dengan menambahkan sensor UVtron ke dalam robot ini maka akan menjelma menjadi robot pemadam api. Untuk membuat robot pemadam api tidaklah sulit yaitu dengan menambahkan sensor UVtron kedalam robot avoider. Sistem minimal robot avoider adalah sebagai berikut :
 
 1 Mikrokontroller Arduino Uno R3
+
 2. 1 buah sensor pendeteksi penghalang ultrasonik
+   
 3. 2 buah motor dc sebagai penggerak roda
 
 Untuk menjadi sebuah robot yang cerdas maka konsep robot avoider tadi dapat di ubah menjadi robot pemadam api, yaitu dengan memberikan tambahan sebuah sensor pendeteksi api yaitu flame detector Uvtron .
