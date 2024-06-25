@@ -1,5 +1,5 @@
 # AVOIDER-ROBOT
-Robot avoider merupakan salah satu robot yang menggunakan mikrokontroller seperti Arduino. Robot avoider ini sama seperti robot mobil pada umumnya yang menggunakan roda sebagai media robot untuk berjalan.
+Robot avoider merupakan salah satu robot yang menggunakan mikrokontroller seperti Arduino. Robot avoider ini sama seperti car robot pada umumnya yang menggunakan roda sebagai media robot untuk berjalan.
 
 Kamu bisa merangkai robot avoider ini sendiri.
 
